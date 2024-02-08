@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HideWeapon", "HideWeapon\HideWeapon.csproj", "{C46C0D7A-BA8F-4B61-909A-B17F5D5D7B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C46C0D7A-BA8F-4B61-909A-B17F5D5D7B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46C0D7A-BA8F-4B61-909A-B17F5D5D7B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46C0D7A-BA8F-4B61-909A-B17F5D5D7B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46C0D7A-BA8F-4B61-909A-B17F5D5D7B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {646B9C99-8C60-4C3D-8162-77AEA6BFCA57}
+	EndGlobalSection
+EndGlobal
